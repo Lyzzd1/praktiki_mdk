@@ -1,5 +1,5 @@
 #Лекция 9
-#Domaratsky  
+#Lyashchevsky  
 Интегрирование
   
 Упражнения
